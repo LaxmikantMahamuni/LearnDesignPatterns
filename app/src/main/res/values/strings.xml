@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LearnDesignPatterns</string>
+    <string name="add">Factory Pattern</string>
+    <string name="next_act">Factory Pattern</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile</string>
+    <string name="result">Result</string>
+    <string name="observer">Observer Pattern</string>
+    <string name="observer2">Observer Pattern 2</string>
+</resources>
